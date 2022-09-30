@@ -1,0 +1,5 @@
+package com.fjtech.cards.controller;
+
+public class CardController {
+
+}

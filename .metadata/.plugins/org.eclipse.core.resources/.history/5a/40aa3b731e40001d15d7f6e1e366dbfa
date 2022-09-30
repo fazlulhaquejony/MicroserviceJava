@@ -1,0 +1,5 @@
+package com.fjtech.loans.service;
+
+public interface LoanService {
+
+}

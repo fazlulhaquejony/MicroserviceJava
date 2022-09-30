@@ -1,0 +1,17 @@
+package com.fjtech.loans.service;
+
+import org.springframework.stereotype.Service;
+
+import com.fjtech.loans.models.Loan;
+
+@Service
+public class LoanServiceImp implements LoanService {
+
+	@Override
+	public Loan getData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

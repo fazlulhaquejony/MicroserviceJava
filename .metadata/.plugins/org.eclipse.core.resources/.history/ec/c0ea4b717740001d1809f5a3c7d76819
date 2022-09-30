@@ -1,0 +1,5 @@
+package com.fjtech.cards.repository;
+
+public interface CardRepo {
+
+}

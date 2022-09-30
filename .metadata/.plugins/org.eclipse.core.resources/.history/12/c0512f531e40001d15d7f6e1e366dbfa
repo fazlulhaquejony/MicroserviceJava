@@ -1,0 +1,13 @@
+package com.fjtech.loans.service;
+
+import com.fjtech.loans.models.Loan;
+
+public class LoanServiceImp implements LoanService {
+
+	@Override
+	public Loan getData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

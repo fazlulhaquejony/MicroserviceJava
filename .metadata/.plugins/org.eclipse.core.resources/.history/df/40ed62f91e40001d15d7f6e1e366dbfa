@@ -1,0 +1,8 @@
+package com.fjtech.loans.repository;
+
+
+public interface LoanRepo {
+	
+	Loan getData();
+
+}

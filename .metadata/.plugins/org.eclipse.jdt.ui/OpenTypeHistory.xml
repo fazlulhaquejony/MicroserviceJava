@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=accounts/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;repository{AccountRepository.java[AccountRepository" modifiers="513" timestamp="1663784442322"/>
+    <typeInfo handle="=loans/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.fjtech.loans.service{LoanService.java[LoanService" modifiers="513" timestamp="1664473504484"/>
+    <typeInfo handle="=loans/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.fjtech.loans.repository{LoanRepo.java[LoanRepo" modifiers="513" timestamp="1664473729557"/>
+    <typeInfo handle="=cards/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.fjtech.cards.repository{CardRepo.java[CardRepo" modifiers="513" timestamp="1664511726448"/>
+</typeInfoHistroy>

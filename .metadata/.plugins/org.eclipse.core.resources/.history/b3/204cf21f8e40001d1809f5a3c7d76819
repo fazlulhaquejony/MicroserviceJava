@@ -1,0 +1,13 @@
+package com.fjtech.cards.repository;
+
+import com.fjtech.cards.model.Cards;
+
+public class CardRepoImp implements CardRepo {
+
+	@Override
+	public Cards getData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
